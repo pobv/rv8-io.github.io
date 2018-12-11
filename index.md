@@ -123,7 +123,7 @@ rv8 supports the following target architecture and host operating system combina
   - macOS (Sierra 10.11 x86-64) _(stable)_
   - FreeBSD (11 x86-64) _(alpha)_
 
-Please read the RISC-V toolchain installtion instructions in the
+Please read the RISC-V toolchain installation instructions in the
 [riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain/)
 repository. To experiment with the RISC-V toolchain online try the
 RISC-V [Compiler Explorer](https://cx.rv8.io/).
